@@ -6,4 +6,4 @@ This is 5th line from terminal
 This is 6th line from git hub
 This is 7th line from terminal
 This is 8th line from terminal.
-This is 8th line from git hut
+This is 9th line from git hut
